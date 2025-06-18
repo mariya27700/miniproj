@@ -1,0 +1,27 @@
+<?php
+session_start();
+if (!isset($_SESSION['admin'])) {
+    header("Location: adminlogin.html"); 
+    exit();
+}
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="st.css"> 
+</head>
+<body>
+    <h1>Welcome, Admin</h1>
+    <nav>
+    <ul>
+        <li><a href="manage_doctors.php">Manage Doctors</a></li>
+        <li><a href="manage_patients.php">Manage Patients</a></li>
+        <li><a href="manage_appointments.php">Manage Appointments</a></li>
+        <li><a href="adminlogout.php">Logout</a></li>
+        <li><a href="index.html">Go to Homepage</a></li>
+    </ul>
+</nav>
+</body>
+</html>

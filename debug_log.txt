@@ -1,0 +1,787 @@
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 10
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 10
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 10
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_suman, Password: neuro456
+Found user: Array
+(
+    [name] => Dr. Suman
+    [specialization] => Neurologist
+    [username] => dr_suman
+    [password] => neuro456
+    [available_slots] => 9
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 10
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_suman, Password: neuro456
+Found user: Array
+(
+    [name] => Dr. Suman
+    [specialization] => Neurologist
+    [username] => dr_suman
+    [password] => neuro456
+    [available_slots] => 7
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_suman, Password: neuro456
+Found user: Array
+(
+    [name] => Dr. Suman
+    [specialization] => Neurologist
+    [username] => dr_suman
+    [password] => neuro456
+    [available_slots] => 8
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 3
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_suman, Password: neuro456
+Found user: Array
+(
+    [name] => Dr. Suman
+    [specialization] => Neurologist
+    [username] => dr_suman
+    [password] => neuro456
+    [available_slots] => 8
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_suman, Password: neuro456
+Found user: Array
+(
+    [name] => Dr. Suman
+    [specialization] => Neurologist
+    [username] => dr_suman
+    [password] => neuro456
+    [available_slots] => 8
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 2
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: zc, Password: dcdv
+User not found
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 2
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: 12e
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 3
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 3
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_suman, Password: neuro456
+Found user: Array
+(
+    [name] => Dr. Suman
+    [specialization] => Neurologist
+    [username] => dr_suman
+    [password] => neuro456
+    [available_slots] => 7
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 6
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 6
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: cardio
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 6
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 6
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 6
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 0
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: cardio123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 2
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutt, Password: cardio123
+User not found
+Username: dr_ramankutt, Password: cardio123
+User not found
+Username: dr_ramankutt, Password: cardio123
+User not found
+Username: dr_ramankutt, Password: cardio123
+User not found
+Username: dr_ramankutt, Password: cardio123
+User not found
+Username: dr_ramankutty, Password: crd
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => cardio123
+    [available_slots] => 2
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: raman
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => raman
+    [available_slots] => 2
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: raman
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => raman
+    [available_slots] => 1
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: c 
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => raman
+    [available_slots] => 1
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: ram
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => ram
+    [available_slots] => 1
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: ram
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => ram
+    [available_slots] => 1
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: ram
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => ram
+    [available_slots] => 1
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: ram
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => ram
+    [available_slots] => 1
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: ram
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => ram
+    [available_slots] => 1
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ravi, Password: ravi
+Found user: Array
+(
+    [name] => Dr. Ravi
+    [specialization] => Gastroenterologist
+    [username] => dr_ravi
+    [password] => ravi
+    [available_slots] => 7
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: ram
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => ram
+    [available_slots] => 1
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty , Password: ram
+User not found
+Username: dr_ramankutty , Password: raman
+User not found
+Username: dr_ramankutty , Password: ram
+User not found
+Username: dr_ramankutty , Password: ram
+User not found
+Username: dr_ramankutty , Password: ram
+User not found
+Username: dr_ramankutty, Password: ram
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => ram
+    [available_slots] => 1
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: ram
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => ram
+    [available_slots] => 1
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankut, Password: ram
+User not found
+Username: dr_ramankutty, Password: raaa
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => ram
+    [available_slots] => 1
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: 123
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => 123
+    [available_slots] => 1
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ravi, Password: ravi
+Found user: Array
+(
+    [name] => Dr. Ravi
+    [specialization] => Gastroenterologist
+    [username] => dr_ravi
+    [password] => ravi
+    [available_slots] => 8
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: ram
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => 123
+    [available_slots] => 4
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: ram
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => ram
+    [available_slots] => 4
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: 23
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => ram
+    [available_slots] => 4
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: qwe
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => qwe
+    [available_slots] => 4
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_suman, Password: neuro4
+Found user: Array
+(
+    [name] => Dr. Suman
+    [specialization] => Neurologist
+    [username] => dr_suman
+    [password] => neuro4
+    [available_slots] => 6
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: qwe
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => qwe
+    [available_slots] => 1
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_suman, Password: neuro4
+Found user: Array
+(
+    [name] => Dr. Suman
+    [specialization] => Neurologist
+    [username] => dr_suman
+    [password] => neuro4
+    [available_slots] => 1
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: qwe
+Found user: Array
+(
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => qwe
+    [available_slots] => 1
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ravi, Password: ravi
+Found user: Array
+(
+    [name] => Dr. Ravi
+    [specialization] => Gastroenterologist
+    [username] => dr_ravi
+    [password] => ravi
+    [available_slots] => 7
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_thomson, Password: thomson
+Found user: Array
+(
+    [id] => 8
+    [name] => Dr.Thomsan
+    [specialization] => Physician
+    [username] => dr_thomson
+    [password] => $2y$10$sPNQLioMth66lTZ8NBiXduiM4fxf5Xd51IO1EX6HXU7u7RYaVcG1q
+    [available_slots] => 4
+)
+
+Invalid Password
+Username: dr_thomson, Password: thomson
+Found user: Array
+(
+    [id] => 8
+    [name] => Dr.Thomsan
+    [specialization] => Physician
+    [username] => dr_thomson
+    [password] => thomson
+    [available_slots] => 4
+)
+
+Login Successful - Redirecting to doctorsroutine.php
+Username: dr_ramankutty, Password: password
+Found user: Array
+(
+    [id] => 1
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => qwe
+    [available_slots] => 2
+    [email] => ramankutty@gmail.com
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: password
+Found user: Array
+(
+    [id] => 1
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => qwe
+    [available_slots] => 2
+    [email] => ramankutty@gmail.com
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: password
+Found user: Array
+(
+    [id] => 1
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => qwe
+    [available_slots] => 2
+    [email] => ramankutty@gmail.com
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: add
+Found user: Array
+(
+    [id] => 1
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => qwe
+    [available_slots] => 2
+    [email] => ramankutty@gmail.com
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: ramankutty
+Found user: Array
+(
+    [id] => 1
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => $2y$10$QdsxjIxnRaT4lz0/EYOl7.kBGhoayY7HKdhSPQOxlQi7ix/SK2HT6
+    [available_slots] => 2
+    [email] => ramankutty@gmail.com
+    [security_question] => What is your favourite color?
+    [security_answer] => Yellow
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: ramankutty
+Found user: Array
+(
+    [id] => 1
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => $2y$10$QdsxjIxnRaT4lz0/EYOl7.kBGhoayY7HKdhSPQOxlQi7ix/SK2HT6
+    [available_slots] => 2
+    [email] => ramankutty@gmail.com
+    [security_question] => What is your favourite color?
+    [security_answer] => Yellow
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: raman
+Found user: Array
+(
+    [id] => 1
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => $2y$10$QdsxjIxnRaT4lz0/EYOl7.kBGhoayY7HKdhSPQOxlQi7ix/SK2HT6
+    [available_slots] => 2
+    [email] => ramankutty@gmail.com
+    [security_question] => What is your favourite color?
+    [security_answer] => Yellow
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: raman
+Found user: Array
+(
+    [id] => 1
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => $2y$10$Vfm.PdKegHNyVTYprpUEleg2ihlrhte72Ub/Oe4F40X1OOkTMlERq
+    [available_slots] => 2
+    [email] => ramankutty@gmail.com
+    [security_question] => What is your favourite color?
+    [security_answer] => Yellow
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: raman
+Found user: Array
+(
+    [id] => 1
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => $2y$10$lG/n7uzFzJ55VWOoULsiOenLrLb6A/HXou7dvXFQeOb12dVrqKHS6
+    [available_slots] => 2
+    [email] => ramankutty@gmail.com
+    [security_question] => What is your favourite color?
+    [security_answer] => Yellow
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: raman
+Found user: Array
+(
+    [id] => 1
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => $2y$10$lG/n7uzFzJ55VWOoULsiOenLrLb6A/HXou7dvXFQeOb12dVrqKHS6
+    [available_slots] => 2
+    [email] => ramankutty@gmail.com
+    [security_question] => What is your favourite color?
+    [security_answer] => Yellow
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: raman
+Found user: Array
+(
+    [id] => 1
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => $2y$10$lG/n7uzFzJ55VWOoULsiOenLrLb6A/HXou7dvXFQeOb12dVrqKHS6
+    [available_slots] => 2
+    [email] => ramankutty@gmail.com
+    [security_question] => What is your favourite color?
+    [security_answer] => Yellow
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: raman
+Found user: Array
+(
+    [id] => 1
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => $2y$10$TctIIYc82jRWzRE/4a0uouLI2b7r6yBX.wa8BGNXPa2gmHO2379ZO
+    [available_slots] => 2
+    [email] => ramankutty@gmail.com
+    [security_question] => What is your favourite color?
+    [security_answer] => Yellow
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: raad
+Found user: Array
+(
+    [id] => 1
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => $2y$10$TctIIYc82jRWzRE/4a0uouLI2b7r6yBX.wa8BGNXPa2gmHO2379ZO
+    [available_slots] => 2
+    [email] => ramankutty@gmail.com
+    [security_question] => What is your favourite color?
+    [security_answer] => Yellow
+)
+
+Invalid Password
+Username: dr_ramankutty, Password: wer
+Found user: Array
+(
+    [id] => 1
+    [name] => Dr. Ramankutty
+    [specialization] => Cardiologist
+    [username] => dr_ramankutty
+    [password] => $2y$10$djrxFJgcJIf1ON.YyQe6dOMTDOH/VZCp1m9mZjfW1Kdq6mm82xGy6
+    [available_slots] => 2
+    [email] => ramankutty@gmail.com
+    [security_question] => What is your favourite color?
+    [security_answer] => Yellow
+)
+
+Invalid Password
